@@ -8,3 +8,8 @@ def get_sample_data():
         "Friday":[100,20,80,20,10]
     }
     return income
+
+
+def get_list_data():
+    some_list = [1,2,3,4,5,6,7,8,9,10]
+    return some_list
